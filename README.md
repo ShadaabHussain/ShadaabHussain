@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaabhussain&label=Profile%20views&color=0e75b6&style=flat" alt="shadaabhussain" /> </p>
 
-- 🔭 I’m currently working as Software Test Engineer **ROCS - CRM Integration**
+- 🔭 I’m currently working as **Software Test Engineer**
 
 - 📫 How to reach me **shadaabhnn@gmail.com**
 
