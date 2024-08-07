@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadaab Hussain</h1>
 <h3 align="center">4+ years of experience in the ﬁeld of Automation Testing using Python, ETL and Manual Testing with specialization in testing of telecom billing -BSS and Healthcare applications .</h3>
 
-<img align="right" alt="Automation Testing" widht="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0BXNavG1lJc5BK9Xhoc-GH&ust=1723108600674000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPijo9HG4ocDFQAAAAAdAAAAABAE](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966).gif">
+<img align="right" alt="Automation Testing" widht="400" src="https://github.com/user-attachments/assets/ade6356b-12c8-44f0-a371-0b81061a57eb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaabhussain&label=Profile%20views&color=0e75b6&style=flat" alt="shadaabhussain" /> </p>
 
