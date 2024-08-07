@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadaab Hussain</h1>
 <h3 align="center">4+ years of experience in the ﬁeld of Automation Testing using Python, ETL and Manual Testing with specialization in testing of telecom billing -BSS and Healthcare applications .</h3>
 
-<img align="right" alt="QA Automation Testing" widht="400" src="https://github.com/user-attachments/assets/ade6356b-12c8-44f0-a371-0b81061a57eb.gif">
+<img align="right" alt="QA Automation Testing" widht="400" src="C:\Users\SHADAB\Downloads\git testing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaabhussain&label=Profile%20views&color=0e75b6&style=flat" alt="shadaabhussain" /> </p>
 
