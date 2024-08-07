@@ -3,6 +3,7 @@
 <h3 align="center">4+ years of experience in the ﬁeld of Automation Testing using Python, ETL and Manual Testing with specialization in testing of telecom billing -BSS and Healthcare applications .</h3>
 
 <img align="right" alt="QA Automation Testing" height=250 widht="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadaabhussain&label=Profile%20views&color=0e75b6&style=flat" alt="shadaabhussain" /> </p>
@@ -11,7 +12,6 @@
 
 - 📫 How to reach me **shadaabhnn@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
